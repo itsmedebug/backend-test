@@ -1,0 +1,3 @@
+functions-framework
+requests
+duckduckgo-search
